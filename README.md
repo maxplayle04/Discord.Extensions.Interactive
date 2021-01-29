@@ -13,3 +13,7 @@ An addon for [Discord.Net](https://github.com/RogueException/Discord.Net) that a
 ## Usage
 
 To use, add an `InteractiveService` to your service provider. It is also recommended to make your modules inherit from `InteractiveBase`
+
+## Acknowledgements
+- Foxbot for the original code
+- maxplayle04 for porting the code and rebuilding the NuGet package making it compatible with D.NET 2.3.0
